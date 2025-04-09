@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chat.openai.com/mnt/data/jinjae-banner-final.png" alt="JINJAE GitHub Banner" width="600"/>
+  <img src="https://github.com/kkkk-270/kkkk-270/blob/main/jinjaebanner.png" alt="JINJAE GitHub Banner" width="600"/>
 </div>
 
 ---
