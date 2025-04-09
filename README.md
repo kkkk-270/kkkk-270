@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="./image/jinjaebanner.png" />
+    <img src="[./image/jinjaebanner.png](https://postimg.cc/vg4VHS3Y)" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 신입 개발자 </h2>  
